@@ -20,4 +20,4 @@ If you don't want to use the default containers (`{{` opening and `}}` closing),
         "[", "]"
     )
     print(newText)
-This will output the same thing.
+This would output the same thing.
